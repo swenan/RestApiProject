@@ -13,7 +13,7 @@ public class TestBase {
 	public int RESPONSE_STATUS_CODE_201 = 201;
 
 	public static Properties prop;
-
+//method
 	public TestBase() {
 
 		try {
